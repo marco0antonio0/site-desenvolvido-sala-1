@@ -1,0 +1,81 @@
+/* ====================>>>>>>>>> b1 <<<<<<<<=============================== */
+.b1{
+    max-height: 120px;
+    background-color: rgba(255, 79, 67, 1);
+}
+.b1 div{
+    max-width: 1200px;
+    margin: auto auto auto auto;
+}
+.b1 div h1{
+    color: white;
+    margin-left: 50px;
+}
+.b1 div div{
+    margin: auto auto 20px auto;
+    max-width: 400px;
+}
+.b1 a{
+    text-decoration: none;
+    color: white; font-size: 25px;
+    margin-right: 40px;
+}
+/* ====================>>>>>>>>> b2 <<<<<<<<=============================== */
+.b2{
+    height: 450px;
+    width: auto;
+    background-color: rgba(255, 79, 67, 1);
+}
+.b2 div{
+    margin: auto;
+}
+.b2 div img{
+  margin: auto; 
+  height: auto;
+  width: 350px;  
+}
+/* ====================>>>>>>>>> b3 <<<<<<<<=============================== */
+.b3{
+    height: 380px;
+}
+.b3 .p1{
+    width: 33.3%;
+}
+.b3 .p1 div{
+    margin: auto;
+}
+.b3 .p1 div div{
+    height: 100%;
+    width: auto;
+    margin: auto;
+}
+.b3 .p1 div h2{
+    margin: auto;
+}
+.b3 .p1 div {
+    width: 90%;
+}
+/* ====================>>>>>>>>> b4 <<<<<<<<=============================== */
+.b4{
+    margin: 5px auto;
+    height: auto;
+    width: auto;
+    max-width: 1200px;
+}
+.b4 h1{
+    font-size: 40px;
+    margin: 25px 15px;
+    color: rgba(255, 79, 67, 1);
+}
+.b4 p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.b4 div div{
+    height: 90px;
+    width: auto;
+}
+.b4 div div img{
+    height: 90%;
+    width: auto;
+}
